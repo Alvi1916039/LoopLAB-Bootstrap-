@@ -1,0 +1,51 @@
+
+body{
+    background: #333333;
+    color: #fff;
+}
+
+.navbar {
+  border-bottom: 3px solid #008ed6;
+  background: #292b2c;
+  
+  opacity: 0.9;
+}
+
+#home{
+  background: url(img/hero-bg.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center top;
+  min-height: 700px;
+  background-attachment: fixed;
+}
+.dark-overlay{
+  background: rgba(0,0,0,0.7);
+  min-height: 700px;
+}
+.fa{
+  background: #fff;
+  color: #007bff;
+  padding: 4px;
+  font-size: 30px;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+}
+.card-form{
+  opacity: 0.9;
+}
+.home-inner{
+  padding-top: 150px;
+  padding-bottom: 60px;
+}
+
+
+#explore-main-section .fa{
+  font-size: 30px;
+  color: #fff;
+  background: #333333;
+  
+}
